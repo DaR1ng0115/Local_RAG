@@ -1,3 +1,5 @@
+# copyright (c) 2026 DaR1ng0115
+# SPDX-License-Identifier: MIT
 import time 
 from typing import Any,Dict,List
 from langchain_core.callbacks import BaseCallbackHandler
