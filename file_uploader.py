@@ -1,3 +1,5 @@
+# copyright (c) 2026 DaR1ng0115
+# SPDX-License-Identifier: MI
 import os
 from uuid import uuid4
 from langchain_chroma import Chroma
