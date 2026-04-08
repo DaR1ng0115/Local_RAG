@@ -1,5 +1,5 @@
 # copyright (c) 2026 DaR1ng0115
-# SPDX-License-Identifier: MI
+# SPDX-License-Identifier: MIT
 import sqlite3
 import streamlit as st
 import config as cg
